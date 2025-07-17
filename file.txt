@@ -1,6 +1,6 @@
 rec2 is being modified
-
 feature1 changes
 feature2 changes
 rec2 again modified
 this is end of the sigment
+file1 commits
